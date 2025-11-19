@@ -124,7 +124,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-text</artifactId>
-            <version>1.12.0</version>
+            <version>1.14.0</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
@@ -150,14 +150,14 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.5</version>
+            <version>1.6.0</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>6.0.23</version>
+            <version>6.2.8</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
